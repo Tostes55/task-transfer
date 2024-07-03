@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Parâmetros da consulta: {"LDAP":"rpa_cas_automacaocr"} -->
+					<ns7:Tarefa ID="63afd048-6559-4952-a126-25c92c0d1970">
+						<ns7:Criacao>2024-05-22T12:01:41</ns7:Criacao>
+						<ns7:PrazoTermino>2024-05-23T12:01:41</ns7:PrazoTermino>
+						<ns7:Titulo>Emitir Parecer Preliminar - SIAC C403209257 - R$ 57.999,56 - EDSON LUIZ LUDWIG - 0437/03 - RC01/382C</ns7:Titulo>
+						<ns7:Situacao>ASSIGNED</ns7:Situacao>
+						<ns7:Prioridade>NORMAL</ns7:Prioridade>
+						<ns7:EnderecoApresentacao>http://adf-corp.sicredi.net:80/workflow/UIEmitirParecerPreliminar/faces/adf.task-flow?adf.tfId=EmitirParecerPreliminar_TaskFlow&amp;adf.tfDoc=WEB-INF/EmitirParecerPreliminar_TaskFlow.xml&amp;bpmWorklistTaskId=63afd048-6559-4952-a126-25c92c0d1970&amp;tz=America%2FSao_Paulo&amp;bpmWorklistSessionTimeoutInterval=4200</ns7:EnderecoApresentacao>
+						<ns7:Origem>
+							<ns7:Dominio>SOACorp</ns7:Dominio>
+							<ns7:Processo>ProcessoAnaliseCredito</ns7:Processo>
+							<ns7:Tarefa xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="xs:string">EmitirParecerPreliminar</ns7:Tarefa>
+							<ns7:Composto>BPMAnaliseCredito</ns7:Composto>
+							<ns7:Versao>8.99</ns7:Versao>
+							<ns7:IdDefinicaoTarefa>analise/BPMAnaliseCredito!8.99/EmitirParecerPreliminar</ns7:IdDefinicaoTarefa>
+							<ns7:NomeDefinicaoTarefa>http://xmlns.oracle.com/AppCredito/BPMAnaliseCredito/EmitirParecerPreliminar</ns7:NomeDefinicaoTarefa>
+						</ns7:Origem>
+						<ns7:Execucao>
+							<ns7:CompositeId>889908635</ns7:CompositeId>
+							<ns7:Ecid>db04dd1456545082:-18896b32:18f3b95dc40:-8000-000000000008be6e</ns7:Ecid>
+						</ns7:Execucao>
+						<ns7:Participantes>
+							<ns7:Usuario>
+								<ns7:Nome>gracieli_carloto</ns7:Nome>
+							</ns7:Usuario>
+							<ns7:Usuario>
+								<ns7:Nome>ana_mendes</ns7:Nome>
+							</ns7:Usuario>
+							<ns7:Usuario>
+								<ns7:Nome>ana_parizzi</ns7:Nome>
+							</ns7:Usuario>
+							
+fim
